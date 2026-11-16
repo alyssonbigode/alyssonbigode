@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou o Alysson 👋
 
-<!--
-**alyssonbigode/alyssonbigode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de infraestrutura em Foz do Iguaçu – PR, Hoje cuido de servidores Linux, containers e redes no Parque das Aves, e escrevo as ferramentas internas que a equipe usa.
 
-Here are some ideas to get you started:
+- 🐳 Docker e Docker Compose, com Nginx Proxy Manager e Portainer
+- 🔁 CI/CD com GitHub Actions e runners self-hosted
+- 📈 Observabilidade com Zabbix, Grafana e Graylog
+- 🌐 Redes com pfSense, MikroTik, UniFi e WireGuard
+- ☁️ Oracle Cloud (OCI)
+- 🎓 Ciência da Computação, UniAmérica Descomplica (conclusão em 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+
+- **[Rechearte Controle](https://github.com/alyssonbigode/rechearte)**: sistema de vendas, estoque e precificação para o meu negócio de doces. Node.js + PostgreSQL em Docker, com deploy contínuo numa VM da OCI (verificação, deploy e health check no GitHub Actions).
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/alysson-fernando-ludke-rosa-9579a82ba/) · alyssonrosa.5@gmail.com
